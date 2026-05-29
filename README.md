@@ -6,6 +6,10 @@ This repository collects impressive C libraries, examples, posts, and other reso
 
 ## Libraries
 
+### C Standard Library
+
+* [SibiSiddharthan/windows-libc](https://github.com/SibiSiddharthan/windows-libc) - A modular and mostly POSIX compliant C library for Windows.
+
 ### Concurrency
 
 * [Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal thread pool implementation.
@@ -20,6 +24,14 @@ This repository collects impressive C libraries, examples, posts, and other reso
 ### Comparison
 
 * [P-p-H-d/c-stl-comparison](https://github.com/P-p-H-d/c-stl-comparison) - A project that compares various C libraries offering STL-like generic container capabilities.
+
+### Machine Learning
+
+* [MarioSieg/magnetron](https://github.com/MarioSieg/magnetron) - A zero-dependency machine learning framework in C with a modern Python API.
+
+### LLM
+
+* [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) - A minimal, from-scratch LLM inference engine written in C.
 
 ## Posts
 
