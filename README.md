@@ -42,6 +42,7 @@ This repository collects impressive C libraries, examples, posts, and other reso
 ### Code Guidelines
 
 * [open-catalog.codee.com](https://open-catalog.codee.com/) - Code guidelines for improving correctness, modernization, security, portability and optimization of C, C++, and Fortran code.
+* [SEI CERT C Coding Standard](https://cmu-sei.github.io/secure-coding-standards/sei-cert-c-coding-standard/) - Collection of rules for writing secure C code.
 
 ### Without Standard Library
 
